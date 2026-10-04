@@ -37,15 +37,11 @@ window.PORTFOLIO = {
   // Each tool shows as a bubble. Clicking it opens the link.
   // logo: an image in the "images/tools" folder (or a full https:// link).
   tools: [
-    { name: 'C++', logo: 'images/tools/cpp.svg', url: 'https://en.cppreference.com/' },
-    { name: 'Python', logo: 'images/tools/python.svg', url: 'https://www.python.org/' },
-    { name: 'TypeScript', logo: 'images/tools/typescript.svg', url: 'https://www.typescriptlang.org/' },
-    { name: 'Node.js', logo: 'images/tools/nodejs.svg', url: 'https://nodejs.org/' },
-    { name: 'Java', logo: 'images/tools/java.svg', url: 'https://www.java.com/' },
-    { name: 'Go', logo: 'images/tools/go.svg', url: 'https://go.dev/' },
-    { name: 'PostgreSQL', logo: 'images/tools/postgresql.svg', url: 'https://www.postgresql.org/' },
-    { name: 'GitHub', logo: 'images/tools/github.svg', url: 'https://github.com/kzyarou' },
+    { name: 'AWS', logo: 'images/tools/aws.svg', url: 'https://aws.amazon.com/' },
     { name: 'Docker', logo: 'images/tools/docker.svg', url: 'https://www.docker.com/' },
-    { name: 'Linux', logo: 'images/tools/linux.svg', url: 'https://www.linux.org/' },
+    { name: 'Kubernetes', logo: 'images/tools/kubernetes.svg', url: 'https://kubernetes.io/' },
+    { name: 'GitHub', logo: 'images/tools/github.svg', url: 'https://github.com/kzyarou' },
+    { name: 'Terraform', logo: 'images/tools/terraform.svg', url: 'https://www.terraform.io/' },
+    { name: 'Azure', logo: 'images/tools/azure.svg', url: 'https://azure.microsoft.com/' },
   ],
 }

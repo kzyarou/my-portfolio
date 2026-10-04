@@ -844,6 +844,12 @@ ul {
 .window::backdrop {
   background: rgba(17, 17, 19, 0.45);
 }
+
+/* Prevent body scroll when dialog is open */
+body:has(.window[open]) {
+  overflow: hidden;
+}
+
 @keyframes window-in {
   from {
     opacity: 0;
