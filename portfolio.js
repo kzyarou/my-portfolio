@@ -10,20 +10,20 @@
 
 window.PORTFOLIO = {
   // ---- About you -------------------------------------------------------
-  name: 'Your Name',
-  headline: "I'm shipping my first site",
-  intro: 'One line about what you do and what you are learning right now.',
+  name: 'Zachary Rapis',
+  headline: "Aspiring AI engineer",
+  intro: 'I build projects and explore AI development, Linux, and open-source software.',
 
   // Your photo. Upload it to the "images" folder, then write its name here,
   // for example 'images/me.jpg'.
-  photo: 'images/avatar.svg',
+  photo: 'image.png',
 
-  email: 'you@example.com',
+  email: 'zacharyrapisss@gmail.com',
 
   // The two short paragraphs in the About section.
   about: [
-    'Write two or three sentences about who you are and what you enjoy building.',
-    'Write what you are learning next, and the kind of work or team you are looking for.',
+  "I'm a student and aspiring developer who enjoys building software projects and exploring technology.",
+  "I'm currently improving my programming skills, learning more about web development, and contributing to open-source projects.",
   ],
 
   // ---- Your links ----------------------------------------------------
