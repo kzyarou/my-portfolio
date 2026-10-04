@@ -16,7 +16,7 @@ window.PORTFOLIO = {
 
   // Your photo. Upload it to the "images" folder, then write its name here,
   // for example 'images/me.jpg'.
-  photo: 'images/image.png',
+  photo: 'images/profile.jpg',
 
   email: 'zacharyrapisss@gmail.com',
 
